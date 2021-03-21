@@ -1,4 +1,4 @@
 theme: "starter-academic"
-baseURL: http://example.org/
+baseURL: https://baneblog.netlify.app/
 languageCode: en-us
 title: My New Hugo Site
