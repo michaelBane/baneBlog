@@ -2,3 +2,8 @@ theme: "starter-academic"
 baseURL: https://baneblog.netlify.app/
 languageCode: en-us
 title: My New Hugo Site
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
