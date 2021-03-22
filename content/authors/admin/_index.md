@@ -26,7 +26,7 @@ role: Head of Machine Learning Engineering
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:baneanalytics@gmail.com
 - display:
     header: true
   icon: twitter
