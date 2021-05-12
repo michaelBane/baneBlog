@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Views are my own
 #  url: https://www.stanford.edu/
-role: Head of Machine Learning Engineering
+role: Data Jack of All Trades
 social:
 - icon: envelope
   icon_pack: fas
