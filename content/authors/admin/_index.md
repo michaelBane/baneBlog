@@ -1,5 +1,5 @@
 ---
-bio: My interests include Applied Analtics and MAchine Learning.
+bio: My interests include Applied Analtics and Machine Learning.
 education:
   courses:
   - course: Postgrad in Machine Leaning and Statistics
