@@ -6,10 +6,10 @@
 main:
   - name: Blog
     url: '#posts'
-    weight: 10
+    weight: 20
   - name: About
     url: '#about'
-    weight: 20
+    weight: 30
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30

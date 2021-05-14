@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 30
 
-title: Recent Posts
-subtitle:
+title: Blog
+subtitle: My most recent ramblings
 
 content:
   # Page type to display. E.g. post, talk, publication...
