@@ -22,7 +22,7 @@ image:
 projects: []
 ---
 
-I love reproducible R or Python based work-flows and everything that goes with that. The satisfaction of a crafting a lean one-liner for that tricky problem is hard to surpass in the typical day in the life of an analyst. RStudio and Jupyter for example are amazing tools and improving all the time, but man do they still suck if exploratory SQL is part of your work-flow.
+I love reproducible R or Python based work-flows and everything that goes with that. The satisfaction of a crafting a lean one-liner for that tricky problem is hard to surpass in the typical day in the life of an analyst. RStudio and Jupyter for example are amazing tools and improving all the time, but imo they are still significantly lacking features for heavy SQL-based workflows.
 
 Its so bad that for years i stopped working reproducible. Slowly over time, i became a slave to the SQL editor, downloading results, reformatting in excel and sharing though email.
 
